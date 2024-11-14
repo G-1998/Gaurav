@@ -12,6 +12,9 @@
             <a href="#about" class="text-white hover:text-gray-300">About</a>
             <a href="#projects" class="text-white hover:text-gray-300">Projects</a>
             <a href="#contact" class="text-white hover:text-gray-300">Contact</a>
+            <a href="#skills" class="text-white hover:text-gray-300">Skills</a> <!-- Added Skills -->
+            <a href="#education" class="text-white hover:text-gray-300">Education</a> <!-- Added Education -->
+            <a href="#experience" class="text-white hover:text-gray-300">Experience</a> <!-- Added Experience -->
         </nav>
 
         <!-- Mobile Hamburger Menu -->
@@ -28,6 +31,9 @@
         <a href="#about" class="block">About</a>
         <a href="#projects" class="block">Projects</a>
         <a href="#contact" class="block">Contact</a>
+        <a href="#skills" class="block">Skills</a> <!-- Added Skills -->
+        <a href="#education" class="block">Education</a> <!-- Added Education -->
+        <a href="#experience" class="block">Experience</a> <!-- Added Experience -->
     </div>
 </header>
 
