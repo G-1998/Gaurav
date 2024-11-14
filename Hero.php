@@ -25,9 +25,10 @@
         </div>
 
         <!-- Hero Image on the right -->
-        <div class="flex-shrink-0">
-            <img src="./Images/gaurav.avif" alt="Hero Image" class="w-[150px] h-[150px] object-cover rounded-full shadow-lg">
-        </div>
+      
+    <img src="./Images/gaurav.avif" alt="Hero Image" class="w-100 h-1/2 object-cover rounded-full shadow-lg">
+
+
  </section>
 </body>
 </html>
